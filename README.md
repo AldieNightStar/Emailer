@@ -1,6 +1,6 @@
 # Install
 ```sh
-npm install AldieNightStar/Emailer
+npm install --save AldieNightStar/Emailer
 ```
 
 # Setup Google Account
