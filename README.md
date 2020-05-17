@@ -10,8 +10,8 @@ npm install AldieNightStar/Emailer
 
 # Import
 ```js
-// Do not add "@gmail.com".
-const emailer = require("Emailer")("user.name, "password123");
+// Do not add "@gmail.com" at the end of UserName. It will cause ERRORS
+const emailer = require("Emailer")("user.name", "password123");
 ```
 
 # Usage
